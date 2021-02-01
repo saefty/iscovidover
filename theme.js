@@ -34,7 +34,7 @@ export const theme = {
 			width: '100%'
 		},
 		answer: {
-			margin: '0 auto',
+			margin: '10% auto',
 			width: 'fit-content'
 		},
 	},
@@ -54,7 +54,7 @@ export const theme = {
 	  },
 	  h1: {
 		variant: 'text.heading',
-		fontSize: 8,
+		fontSize: 6,
 	  },
 	  h2: {
 		variant: 'text.heading',
